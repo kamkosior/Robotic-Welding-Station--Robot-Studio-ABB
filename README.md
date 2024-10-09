@@ -1,7 +1,5 @@
 # Robotic-Welding-Station--Robot-Studio-ABB
 
-!!!!IN WORK!!!!
-
  <h2 align="center">Robotic-Welding-Station--Robot-Studio-ABB
    Control of trafficlights using PLC
 </h2>
